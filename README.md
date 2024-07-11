@@ -1,16 +1,30 @@
-## Hi there 👋
+## Hi there 👋, Pavel here
 
-<!--
-**xakpc/xakpc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**About Me**
 
-Here are some ideas to get you started:
+Senior Software Engineer with 13+ years of experience in .NET development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tech Stack**
+
+I worked professionally with this technologies during my carreer journey:
+
+- [x] Desktop: WinForms, WPF, WinRT
+- [x] Mobile: Mono, Xamarin
+- [x] Web: ASP.NET WebAPI, ASP.NET MVC, Blazor, Razor Pages
+- [x] Cloud: Azure (Functions, Storage, SQL, API Management), AWS
+
+**Experience Highlights**
+
+- Enterprise-level development
+- Hackathon enthusiast: Won a dozen, including PayPal BattleHack and HackJunction
+- Startup founder: Launched a couple with varying degrees of success
+- Wannabe indie-hacker: Building stuff for fun and profit in my spare time
+
+**What am I doing these days:**
+
+- 👀 Exploring htmx🤝dotnet combo
+- 🏗️Building https://openpost.email
+- 🧰Designing a self-hosted dotnet toolbox for SAAS apps
+- 🌄Writing a comprehensive REST API guide
+- 🚶‍♂️Hiking through the entire National Blue Trail in Hungary
+- 🚋Nomading in Balkans
