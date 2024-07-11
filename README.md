@@ -6,7 +6,7 @@ Senior Software Engineer with 13+ years of experience in .NET development.
 
 **Tech Stack**
 
-I worked professionally with this technologies during my carreer journey:
+I worked professionally with these technologies during my career journey:
 
 - [x] Desktop: WinForms, WPF, WinRT
 - [x] Mobile: Mono, Xamarin
