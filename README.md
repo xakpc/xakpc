@@ -16,7 +16,7 @@ I worked professionally with these technologies during my career journey:
 **Experience Highlights**
 
 - Enterprise-level development
-- Hackathon enthusiast: Won a dozen, including PayPal BattleHack and HackJunction
+- Hackathon enthusiast: Won a dozen, including PayPal BattleHack country regionals and HackJunction (twice!)
 - Startup founder: Launched a couple with varying degrees of success
 - Wannabe indie-hacker: Building stuff for fun and profit in my spare time
 
