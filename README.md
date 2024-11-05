@@ -23,7 +23,7 @@ I worked professionally with these technologies during my career journey:
 **What am I doing these days:**
 
 - 👀 Exploring htmx🤝dotnet combo
-- 🏗️Building https://openpost.email
+- 🏗️Building https://openpost.email and https://aidevassess.com
 - 🧰Designing a self-hosted dotnet toolbox for SAAS apps
 - 🌄Writing a comprehensive REST API guide
 - 🚶‍♂️Hiking through the entire National Blue Trail in Hungary
