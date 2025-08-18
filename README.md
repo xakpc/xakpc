@@ -23,7 +23,7 @@ I worked professionally with these technologies during my career journey:
 **What am I doing these days:**
 
 - 💰 Working remotely in enterprise, creating much shareholder value
-- 🏗️ Building [api.chat](api.chat) as a personal side-project
-- 🧰 Playing with MCPs built with C# on [anymcp.io](anymcp.io)
+- 🏗️ Building [api.chat](https://api.chat) as a personal side-project
+- 🧰 Playing with MCPs built with C# on [anymcp.io](https://anymcp.io)
 - 👀 Exploring htmx🤝dotnet combo
 - 🇰🇷 Digital Nomading in South Korea
