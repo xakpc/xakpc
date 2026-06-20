@@ -22,6 +22,7 @@ I worked professionally with these technologies during my career journey:
 
 **What am I doing these days:**
 
+- ⊞ Building [Karve.dev](https://karve.dev) - a better API developer experience on Windows
 - 💰 Working remotely in enterprise, creating much shareholder value
 - 👀 Exploring htmx🤝dotnet combo
 - 🇰🇷 Digital Nomading in South Korea
