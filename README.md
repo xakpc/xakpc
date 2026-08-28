@@ -2,7 +2,7 @@
 
 **About Me**
 
-Senior Software Engineer with 14+ years of experience in .NET development.
+Staff / Principal .NET Engineer & Software Architect | C#, ASP.NET Core, Distributed Systems, Azure/AWS | AI-Enabled Engineering & Responsible Agentic Development | Global Remote.
 
 **Tech Stack**
 
