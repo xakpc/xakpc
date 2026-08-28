@@ -10,8 +10,8 @@ I worked professionally with these technologies during my career journey:
 
 - [x] Web: ASP.NET WebAPI, ASP.NET MVC, Blazor, Razor Pages
 - [x] Cloud: Azure (Functions, Storage, SQL, API Management), AWS
-- [x] Desktop: WinForms, WPF, WinRT
-- [x] Mobile: Mono, Xamarin
+- [x] Desktop: WinUI, WinForms, WPF, WinRT
+- [x] Mobile: MAUI, Mono, Xamarin
 
 **Experience Highlights**
 
