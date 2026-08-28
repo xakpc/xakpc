@@ -2,7 +2,7 @@
 
 **About Me**
 
-Staff / Principal .NET Engineer & Software Architect | C#, ASP.NET Core, Distributed Systems, Azure/AWS | AI-Enabled Engineering & Responsible Agentic Development | Global Remote.
+Staff / Principal .NET Engineer & Software Architect 
 
 **Tech Stack**
 
@@ -16,9 +16,11 @@ I worked professionally with these technologies during my career journey:
 **Experience Highlights**
 
 - Enterprise-level development with C# and .NET
+- AI-Enabled Engineering & Responsible Agentic Development supporter
 - Hackathon enthusiast: Won a dozen, including PayPal BattleHack country regionals and HackJunction (twice!)
 - Startup founder: Launched a couple with varying degrees of success
 - Wannabe indie-hacker: Building stuff for fun and profit in my spare time
+- Working remotely since 2015
 
 **What am I doing these days:**
 
